@@ -1,0 +1,6 @@
+C:\Users\yarik\source\repos\MatemAlg\MatemAlg\bin\Debug\MatemAlg.exe.config
+C:\Users\yarik\source\repos\MatemAlg\MatemAlg\bin\Debug\MatemAlg.exe
+C:\Users\yarik\source\repos\MatemAlg\MatemAlg\bin\Debug\MatemAlg.pdb
+C:\Users\yarik\source\repos\MatemAlg\MatemAlg\obj\Debug\MatemAlg.csprojAssemblyReference.cache
+C:\Users\yarik\source\repos\MatemAlg\MatemAlg\obj\Debug\MatemAlg.exe
+C:\Users\yarik\source\repos\MatemAlg\MatemAlg\obj\Debug\MatemAlg.pdb
